@@ -11,8 +11,7 @@
         {
             "user": "test",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "fps": CBF
+            "percent": 100
         }
     ]
 }

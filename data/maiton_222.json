@@ -19,6 +19,11 @@
         "user": "Baominh",
         "hz": "60",
         "percent": 100
+        },
+        {
+        "user": "QuyetDat",
+        "hz": "60",
+        "percent": 100
         }
     ]
 }

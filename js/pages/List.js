@@ -54,6 +54,10 @@ export default {
                             <div class="type-title-sm">FPS</div>
                             <p>{{ level.fps || 'n/a' }}</p>
                         </li>
+                        <li v-if="level.method">
+                            <div class="type-title-sm">Method</div>
+                            <p>{{ level.method }}</p>
+                        </li>
                     </ul>
                     <h2>Records</h2>
                     <p v-if="selected + 1 <= 75"><strong>{{ level.percentToQualify }}%</strong> or better to qualify</p>

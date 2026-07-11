@@ -6,13 +6,8 @@
     "verifier": "NookGD",
     "verification": "https://www.youtube.com/watch?v=y8G4pBJQ5Xo",
     "percentToQualify": 100,
-    "fps": "n/a",
-    "method": "n/a",
+    "fps": "CBF",
+    "method": "Alternate",
     "records": [
-        {
-            "user": "test",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100
-        }
     ]
 }

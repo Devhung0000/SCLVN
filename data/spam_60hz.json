@@ -1,0 +1,13 @@
+{
+    "id": 131135337,
+    "name": "spam 60hz",
+    "author": "baominh",
+    "creators": ["baominh"],
+    "verifier": "baominh",
+    "verification": "https://www.youtube.com/watch?v=2FP6Lec3yFo",
+    "percentToQualify": 100,
+    "fps": "60",
+    "method": "Alternate",
+    "records": [
+    ]
+}

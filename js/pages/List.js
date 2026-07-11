@@ -110,22 +110,23 @@ export default {
                         Level phải có số CPS (số click mỗi giây) từ 10 trở lên và BẮT BUỘC phải bật Click Counter (đếm số click)
                     </p>
                     <p>
-                        Level phải có mức FPS (số khung hình mỗi giây) từ 59 --> 360 và BẮT BUỘC phải bật FPS Counter hoặc Show FPS, Cheat Indicator,... (có sẵn trong trò chơi, miễn là khiến cho mình legit hơn). CẤM TUYỆT ĐỐI TPS BYPASS  (hay còn được gọi là Physics Bypass)
+                        Level phải có mức FPS (số khung hình mỗi giây) từ 59 --> 360 và BẮT BUỘC phải bật FPS Counter hoặc Show FPS, Cheat Indicator... (có sẵn trong trò chơi)
                     </p>
                     <p>
-                        Khi submit record hoặc verification thì phải nộp Raw Footage vào kênh ⁠#submission và #⁠submit-record trong server, còn khi đăng lên các nền tảng mạng xã hội khác như Youtube, Facebook hay nộp vào SCLVN trong trang web GDVN thì chỉ cần nộp completion cũng được. Nếu có Handcam thì càng tốt, BẮT BUỘC phải bật mic và phải nghe thấy rõ tiếng click trong video submit
+                        Khi submit record hoặc verification thì phải nộp Raw Footage vào kênh #submission và #submit-record trong server, còn khi đăng lên các nền tảng mạng xã hội như Youtube, Facebook hay nộp vào SCLVN trong trang web GDVN thì chỉ cần nộp completion của được. Nếu có Handcam thì căng tốt, BẮT BUỘC phải bật mic và phải nghe thấy rõ tiếng click trong video submit
+                    </p>
                     <p>
-                        Khi người chơi nộp record của level trong list thì BẮT BUỘC người chơi đó phải tuân theo y hệt những điều kiện trong level (đã ghi sẵn trong #⁠the-list hoặc phần mô tả của level trong GDVN List) như FPS, Method Spam.
+                        Khi người chơi nộp record của level trong list thì BẮT BUỘC người chơi đó phải tuân theo y hệt những điều kiện trong level (đã ghi sẵn trong #the-list hoặc phần mô tả của level trong GDVN List) như FPS, Method Spam.
                     </p>
                     <h3>Submission Guide</h3>
                     <p>
-                        -Method: #⁠spam-method
+                        -Method: #spam-method
                     </p>
                     <p>
                         -FPS: [từ 59 --> 360] hoặc FPS: CBF (nếu bật)
                     </p>
                     <p>
-                        *Đây là những thứ BẮT BUỘC khi verifier submit 1 level lên GDVN List hoặc ⁠open-verification trong phần mô tả / ghi chú của level.
+                        *Đây là những thứ BẮT BUỘC khi verifier submit 1 level lên GDVN List hoặc open-verification trong phần mô tả / ghi chú của level.
                     </p>
                 </div>
             </div>

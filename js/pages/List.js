@@ -74,9 +74,6 @@ export default {
                             <td class="mobile">
                                 <img v-if="record.mobile" :src="\`/assets/phone-landscape\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
                             </td>
-                            <td class="hz">
-                                <p>{{ record.hz }}Hz</p>
-                            </td>
                         </tr>
                     </table>
                 </div>
@@ -110,13 +107,13 @@ export default {
                         Level phải có số CPS (số click mỗi giây) từ 10 trở lên và BẮT BUỘC phải bật Click Counter (đếm số click)
                     </p>
                     <p>
-                        Level phải có mức FPS (số khung hình mỗi giây) từ 59 --> 360 và BẮT BUỘC phải bật FPS Counter hoặc Show FPS, Cheat Indicator... (có sẵn trong trò chơi)
+                        Level phải có mức FPS (số khung hình mỗi giây) từ 59 --> 360 và BẮT BUỘC phải bật FPS Counter hoặc Show FPS, Cheat Indicator... (có sẵn trong tr[...]
                     </p>
                     <p>
-                        Khi submit record hoặc verification thì phải nộp Raw Footage vào kênh #submission và #submit-record trong server, còn khi đăng lên các nền tảng mạng xã hội như Youtube, Facebook hay nộp vào SCLVN trong trang web GDVN thì chỉ cần nộp completion của được. Nếu có Handcam thì căng tốt, BẮT BUỘC phải bật mic và phải nghe thấy rõ tiếng click trong video submit
+                        Khi submit record hoặc verification thì phải nộp Raw Footage vào kênh #submission và #submit-record trong server, còn khi đăng lên các nền tảng mạng x[...]
                     </p>
                     <p>
-                        Khi người chơi nộp record của level trong list thì BẮT BUỘC người chơi đó phải tuân theo y hệt những điều kiện trong level (đã ghi sẵn trong #the-list hoặc phần mô tả của level trong GDVN List) như FPS, Method Spam.
+                        Khi người chơi nộp record của level trong list thì BẮT BUỘC người chơi đó phải tuân theo y hệt những điều kiện trong level (đã ghi sẵn t[...]
                     </p>
                     <h3>Submission Guide</h3>
                     <p>

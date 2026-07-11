@@ -9,5 +9,15 @@
     "fps": "240",
     "method": "Alternate",
     "records": [
+        {
+        "user": "QuyetDat",
+        "hz": "240",
+        "percent": 100
+        },
+        {
+        "user": "sakiraGMD",
+        "hz": "COS",
+        "percent": 100
+        },
     ]
 }

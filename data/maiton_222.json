@@ -10,18 +10,18 @@
     "method": "Alternate",
     "records": [
         {
-        "user": "sakiraGMD",
-        "link": "https://youtu.be/1vn-NMmt0OA?si=uMaNSeD1DYRMiAhv",
-        "hz": "CBF",
-        "percent": 100
-        },
-        {
         "user": "Baominh",
         "hz": "60",
         "percent": 100
         },
         {
         "user": "QuyetDat",
+        "hz": "60",
+        "percent": 100
+        },
+        {
+        "user": "sakiraGMD",
+        "link": "https://youtu.be/1vn-NMmt0OA?si=uMaNSeD1DYRMiAhv",
         "hz": "60",
         "percent": 100
         }

@@ -102,30 +102,30 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h3>Submission Requirements</h3>
+                    <h3>Submission Rules</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        Level phải có độ dài tương tự như challenge (từ 2s --> 30s)
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        Level phải có số CPS (số click mỗi giây) từ 10 trở lên và BẮT BUỘC phải bật Click Counter (đếm số click)
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        Level phải có mức FPS (số khung hình mỗi giây) từ 59 --> 360 và BẮT BUỘC phải bật FPS Counter hoặc Show FPS, Cheat Indicator,... (có sẵn trong trò chơi, miễn là khiến cho mình legit hơn). CẤM TUYỆT ĐỐI TPS BYPASS  (hay còn được gọi là Physics Bypass)
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exe[...]
+                        Khi submit record hoặc verification thì phải nộp Raw Footage vào kênh ⁠#submission và #⁠submit-record trong server, còn khi đăng lên các nền tảng mạng xã hội khác như Youtube, Facebook hay nộp vào SCLVN trong trang web GDVN thì chỉ cần nộp completion cũng được. Nếu có Handcam thì càng tốt, BẮT BUỘC phải bật mic và phải nghe thấy rõ tiếng click trong video submit
+                    <p>
+                        Khi người chơi nộp record của level trong list thì BẮT BUỘC người chơi đó phải tuân theo y hệt những điều kiện trong level (đã ghi sẵn trong #⁠the-list hoặc phần mô tả của level trong GDVN List) như FPS, Method Spam.
+                    </p>
+                    <h3>Submission Guide</h3>
+                    <p>
+                        -Method: #⁠spam-method
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        -FPS: [từ 59 --> 360] hoặc FPS: CBF (nếu bật)
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
-                    </p>
-                    <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
-                    </p>
-                    <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        *Đây là những thứ BẮT BUỘC khi verifier submit 1 level lên GDVN List hoặc ⁠open-verification trong phần mô tả / ghi chú của level.
                     </p>
                 </div>
             </div>

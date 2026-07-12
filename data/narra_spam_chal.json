@@ -9,5 +9,10 @@
     "fps": "CBF",
     "method": "Rake",
     "records": [
+        {
+        "user": "QuyetDat",
+        "hz": "CBF",
+        "percent": 100
+        }
     ]
 }

@@ -9,5 +9,10 @@
     "fps": "CBF",
     "method": "Alternate",
     "records": [
+        {
+        "user": "baominh",
+        "hz": "CBF",
+        "percent": 100
+        }
     ]
 }

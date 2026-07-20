@@ -9,9 +9,11 @@
     "fps": "CBF",
     "method": "Alternate",
     "records": [
+        {
         "user": "sikarodzz",
         "link": "https://www.youtube.com/watch?v=s2Ba_waN4Yw",
         "hz": "CBF",
         "percent": 100
+        }
     ]
 }

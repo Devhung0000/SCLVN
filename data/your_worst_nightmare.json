@@ -1,13 +1,13 @@
 {
-    "id": 144779298,
+    "id": 145052376,
     "name": "your worst nightmare",
     "author": "baominh",
     "creators": ["baominh"],
     "verifier": "baominh",
     "verification": "https://youtu.be/8vQn6Y2TCos",
-    "percentToQualify": "100",
-    "method": "Alternate",
+    "percentToQualify": 100,
     "fps": "CBF",
+    "method": "Alternate",
     "records": [
     ]
 }

@@ -9,5 +9,10 @@
     "fps": "COS",
     "method": "Single-tap",
     "records": [
+         {
+        "user": "chillguy73",
+        "hz": "COS",
+        "percent": 100
+        }
     ]
 }

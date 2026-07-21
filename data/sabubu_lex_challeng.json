@@ -10,13 +10,13 @@
     "method": "Alt-Jitter",
     "records": [
         {
-        "user": "giangdelt",
-        "hz": "120",
+        "user": "chillguy73",
+        "hz": "60",
         "percent": 100
         },
         {
-        "user": "chillguy73",
-        "hz": "60",
+        "user": "giangdelt",
+        "hz": "240",
         "percent": 100
         }
     ]

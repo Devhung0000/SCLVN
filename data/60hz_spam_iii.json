@@ -11,5 +11,10 @@
     "device": "All",
     "method": "Alternate",
     "records": [
+        {
+        "user": "HGL2",
+        "hz": "60",
+        "percent": 100
+        }
     ]
 }

@@ -15,6 +15,11 @@
         "user": "QuyetDat",
         "hz": "60",
         "percent": 100
+        },
+        {
+        "user": "HGL2",
+        "hz": "60",
+        "percent": 100
         }
     ]
 }

@@ -6,8 +6,10 @@
     "verifier": "chillguy73",
     "verification": "https://www.youtube.com/watch?v=7Va_mCR80XI",
     "percentToQualify": 100,
-    "fps": "COS",
-    "method": "Single-tap",
+    "fps": "60",
+    "handcam": "necessary",
+    "device": "All",
+    "method": "Jitter",
     "records": [
     ]
 }

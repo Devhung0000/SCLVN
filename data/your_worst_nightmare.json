@@ -8,8 +8,8 @@
     "percentToQualify": 100,
     "fps": "60",
     "method": "Alternate",
-    "device": "Uncapped",
-    "handcam": "recommend",
+    "handcam": "recommended",
+    "device": "All",
     "records": [
     ]
 }

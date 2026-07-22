@@ -8,6 +8,8 @@
     "percentToQualify": 100,
     "fps": "60",
     "method": "Alternate",
+    "device": "All.",
+    "handcam": "recommend",
     "records": [
         {
         "user": "QuyetDat",

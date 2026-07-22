@@ -7,6 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=h56g5vzNC14",
     "percentToQualify": 100,
     "fps": "CBF",
+    "handcam": "recommended",
+    "device": "All",
     "method": "Alternate",
     "records": [
         {

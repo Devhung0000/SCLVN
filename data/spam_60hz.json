@@ -8,6 +8,8 @@
     "percentToQualify": 100,
     "fps": "60",
     "method": "Alternate",
+    "handcam": "necessary",
+    "device": "All, devices with a 22.2cps cap or higher.",
     "records": [
         {
         "user": "QuyetDat",

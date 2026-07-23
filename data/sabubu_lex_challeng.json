@@ -6,10 +6,10 @@
     "verifier": "sakiraGMD",
     "verification": "https://youtu.be/_dMAp0rv-mk?si=WvgiurNb7zlV8IMo",
     "percentToQualify": 100,
-    "fps": "120",
-    "handcam": "necessary",
+    "fps": "Any",
+    "handcam": "recommended",
     "device": "All",
-    "method": "Alt-Jitter",
+    "method": "Alternate",
     "records": [
         {
         "user": "chillguy73",

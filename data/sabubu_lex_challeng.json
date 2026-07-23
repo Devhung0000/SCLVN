@@ -20,6 +20,11 @@
         "user": "giangdelt",
         "hz": "240",
         "percent": 100
+        },
+        {
+        "user": "finaliteration",
+        "hz": "240",
+        "percent": 100
         }
     ]
 }

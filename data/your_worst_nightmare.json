@@ -11,5 +11,11 @@
     "handcam": "recommended",
     "device": "All",
     "records": [
+        {
+        "user": "finaliteration",
+        "hz": "60",
+        "link": "https://youtu.be/Lc2NU7kaSJE",
+        "percent": 100
+        }
     ]
 }

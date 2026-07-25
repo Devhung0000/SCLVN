@@ -26,6 +26,16 @@
         "link": "https://www.youtube.com/watch?v=wmvc8mQiOMY",
         "hz": "CBF",
         "percent": 100
+        },
+        {
+        "user": "HGL2",
+        "hz": "240",
+        "percent": 100
+        },
+        {
+        "user": "NookGD",
+        "hz": "240",
+        "percent": 100
         }
     ]
 }

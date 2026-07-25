@@ -11,5 +11,10 @@
     "handcam": "recommended",
     "device": "All",
     "records": [
+        {
+        "user": "NookGD",
+        "hz": "CBF",
+        "percent": 100
+        }
     ]
 }

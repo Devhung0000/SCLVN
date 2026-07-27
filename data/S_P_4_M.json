@@ -1,6 +1,6 @@
 {
     "id": 66193140,
-    "name": "s p 4 m",
+    "name": "S P 4 M",
     "author": "BensonGd",
     "creators": ["BensonGd"],
     "verifier": "TipsX",
@@ -11,5 +11,10 @@
     "device": "All",
     "method": "Alternate",
     "records": [
+        {
+        "user": "giangdelt",
+        "hz": "60",
+        "percent": 100
+        }
     ]
 }

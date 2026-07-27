@@ -7,7 +7,7 @@
     "verification": "https://youtu.be/rffckFJ-igc",
     "percentToQualify": 100,
     "fps": "60",
-    "handcam": "recommended",
+    "handcam": "necessary",
     "device": "All",
     "method": "Jitter",
     "records": [

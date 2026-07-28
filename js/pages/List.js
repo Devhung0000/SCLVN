@@ -93,6 +93,7 @@ export default {
                     </div>
                     <div class="og">
                         <p class="type-label-md">Website layout made by <a href="https://tsl.pages.dev/" target="_blank">TheShittyList</a></p>
+                        <p class="type-label-md">This list is now archived and won't get any updates in the future. Go to the new list<a href="https://gdspamchallengelistvietnam.pages.dev/" style="text-decoration: underline;" target="_blank">here</a></p>
                     </div>
                     <template v-if="editors">
                         <h3>List Editors</h3>

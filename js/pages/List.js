@@ -106,29 +106,7 @@ export default {
                     </template>
                     <h3>Submission Rules</h3>
                     <p>
-                        Level phải có độ dài tương tự như challenge (từ 2s --> 30s)
-                    </p>
-                    <p>
-                        Level phải có số CPS (số click mỗi giây) từ 10 trở lên và BẮT BUỘC phải bật Click Counter (đếm số click)
-                    </p>
-                    <p>
-                        Level phải có mức FPS (số khung hình mỗi giây) từ 59 --> 360 và BẮT BUỘC phải bật FPS Counter hoặc Show FPS, Cheat Indicator... (có sẵn trong tr[...]
-                    </p>
-                    <p>
-                        Khi submit record hoặc verification thì phải nộp Raw Footage vào kênh #submission và #submit-record trong server, còn khi đăng lên các nền tảng mạng x[...]
-                    </p>
-                    <p>
-                        Khi người chơi nộp record của level trong list thì BẮT BUỘC người chơi đó phải tuân theo y hệt những điều kiện trong level (đã ghi sẵn t[...]
-                    </p>
-                    <h3>Submission Guide</h3>
-                    <p>
-                        -Method: #spam-method
-                    </p>
-                    <p>
-                        -FPS: [từ 59 --> 360] hoặc FPS: CBF (nếu bật)
-                    </p>
-                    <p>
-                        *Đây là những thứ BẮT BUỘC khi verifier submit 1 level lên GDVN List hoặc open-verification trong phần mô tả / ghi chú của level.
+                        The Website cannot displays the entire rules, Join the server <a href="https://discord.gg/Qcj5JSRKa" target="_blank">here</a> to view the full rules!
                     </p>
                 </div>
             </div>

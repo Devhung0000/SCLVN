@@ -1,4 +1,4 @@
-}
+{
     "id": 145725372,
     "name": "decode wave but 105",
     "author" : "JustThaiGD",
@@ -13,7 +13,7 @@
     "records": [
         {
         "user": "giangdelt",
-        "hz": "60",
+        "hz": "CBF",
         "percent": 100
         }
     ]
